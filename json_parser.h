@@ -1,5 +1,5 @@
-#ifndef INC_JOHN_JSON_PARSER_H_
-#define INC_JOHN_JSON_PARSER_H_
+#ifndef INC_SIMPLE_JSON_PARSER_H_
+#define INC_SIMPLE_JSON_PARSER_H_
 
 class TJsonParser {
 
